@@ -11,10 +11,10 @@
 
 ## Student Information
 
-- **Name:** Your Name
-- **Roll Number:** Your Roll Number
+- **Name:** Nayab Nasir
+- **Roll Number:** 231980059
 - **Semester:** BS Data Science
-- **Submission:** Individual Assignment
+- **Submission Date:** Aug-02-2026
 
 ---
 
@@ -283,9 +283,9 @@ Through this project, the following Apache Spark concepts were implemented and u
 
 # Author
 
-**Name:** Your Name
+**Name:** Nayab Nasir
 
-**Roll Number:** Your Roll Number
+**Roll Number:** 231980059
 
 **Course:** Big Data Analytics (DS-313)
 
