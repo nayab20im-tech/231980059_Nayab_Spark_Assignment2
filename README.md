@@ -56,7 +56,7 @@ yellow_tripdata_2024-01.parquet
 # Project Structure
 
 ```
-RollNo_Name/
+231980059_Nayab_Spark_Assignment2/
 │
 ├── notebook.ipynb
 ├── notebook.py
